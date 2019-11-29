@@ -41,12 +41,6 @@ $> python3 Marvin.py
  * `–-walking-logs`  or  `-wl`  
    > Display logs while walking.
 
-
- :
-
- `python3 Marvin.py -L -l actions.npy -s`
-   > Will load weights from file, continue training based on that weights and save new best performing weights
-
 ---
 
 ### Examples
