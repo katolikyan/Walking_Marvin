@@ -51,16 +51,11 @@ $> python3 Marvin -l actions.npy -wl -w
 ...
 ```
 
-![](https://github.com/katolikyan/Walking_Marvin/blob/master/.media/Marvin_run.gif)
+![](.media/Marvin_run.gif)
 
 ```bash
 $> python3 Marvin -L -s
 ...
 ```
 
-![](https://github.com/katolikyan/Walking_Marvin/blob/master/.media/Marvin_training_logs.png)
-
----
-### Future plans
-
-* Create more afficiant neeural networks.
+![](.media/Marvin_training_logs.png)
